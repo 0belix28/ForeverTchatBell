@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: |cff33ccffForeverTchatBell|r
+## Notes: Un son au choix pour chaque canal du tchat (guilde, chuchotements, groupe...). /ftb
+## Notes-frFR: Un son au choix pour chaque canal du tchat (guilde, chuchotements, groupe...). /ftb
+## Version: 0.2.1
+## IconTexture: Interface\AddOns\ForeverTchatBell\Media\Logo
+## SavedVariables: ForeverTchatBellDB
+## OptionalDeps: ForeverSoundLibrary
+## AddonCompartmentFunc: ForeverTchatBell_OpenOptions
+
+Core.lua
+Options.lua
